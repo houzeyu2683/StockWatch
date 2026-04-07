@@ -13,6 +13,6 @@ StockWatch 是一套台股即時監控系統，整合 Playwright 自動擷取 Ya
 - 一鍵生成 AI 分析報告（Gemini 2.5 Flash）
 
 **技術架構：**
-- 前端：Next.js + shadcn/ui
+- 前端：Next.js + shadcn/ui，部署於 Vercel
 - 後端：FastAPI + Playwright
 - 資料庫：Supabase
