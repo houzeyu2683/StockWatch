@@ -1,6 +1,6 @@
 # StockWatch
 
-<video src="demo.mp4" controls width="100%"></video>
+![demo](demo.gif)
 
 ## 專案簡介
 
